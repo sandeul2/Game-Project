@@ -1,4 +1,4 @@
-# Game-Factory - 2D 플랫포머 슈팅 게임
+#플랫포머 슈팅 게임
 
 
 ![ezgif com-gif-maker](https://user-images.githubusercontent.com/107553545/198815819-94e4113c-a32a-40a7-8d4e-1ec0a5758859.gif)
